@@ -6,5 +6,6 @@ export default {
     outDir: 'docs',
     emptyOutDir: true,
     minify: true
-  }
+  },
+  base: './'
 } 
