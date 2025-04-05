@@ -1,0 +1,14 @@
+{
+  "name": "local-spending",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "vite --open index.html",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vite": "^6.2.5"
+  }
+}
